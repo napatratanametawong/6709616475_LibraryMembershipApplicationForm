@@ -135,3 +135,18 @@ span {
     margin-top: 10px;
     margin-left: 120px;
 }
+
+.register-btn {
+    width: 730px;
+    padding: 10px 20px;
+    color: #FFFFFF;
+    background-color: #E85234;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 15px;
+}
+
+.register-btn:hover {
+    background-color: #4f5464;
+}
