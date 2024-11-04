@@ -125,3 +125,13 @@ span {
     margin-top: 10px;
     margin-left: 120px;
 }
+
+.notifications-topic {
+   white-space: nowrap;
+   margin-left: 120px;
+}
+
+.notifications-choice {
+    margin-top: 10px;
+    margin-left: 120px;
+}
