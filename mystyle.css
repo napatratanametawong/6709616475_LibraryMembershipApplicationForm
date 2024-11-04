@@ -115,3 +115,13 @@ span {
     width: 349px;
     height: 35px;
 }
+
+.typebook-topic {
+    white-space: nowrap;
+    margin-left: -60px;
+}
+
+.typebook-choice {
+    margin-top: 10px;
+    margin-left: 120px;
+}
