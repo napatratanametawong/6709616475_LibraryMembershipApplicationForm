@@ -79,7 +79,8 @@ span {
 #firstname-th,
 #lastname-th,
 #firstname-en,
-#lastname-en {
+#lastname-en,
+#student-id {
     width: 340px;
     height: 30px;
 }
@@ -107,3 +108,4 @@ span {
     width: 346px;
     height: 30px;
 }
+
