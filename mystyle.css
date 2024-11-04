@@ -49,3 +49,25 @@ form {
     align-items: center;
     margin-top: 20px;
 }
+
+.form-group {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 15px;
+}
+
+.form-group div {
+    flex: 1;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+label {
+    font-family: "Magra", serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #4D4445;
+}
