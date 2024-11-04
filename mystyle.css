@@ -98,3 +98,12 @@ span {
 .gender-group label {
     margin-left: 6px;
 }
+
+.birthday-group {
+    margin-left: 47px;
+}
+
+#birthday {
+    width: 346px;
+    height: 30px;
+}
