@@ -83,3 +83,16 @@ span {
     width: 340px;
     height: 30px;
 }
+
+.gender-group {
+    display: flex;
+    align-items: center;
+}
+
+.gender-group div {
+    margin-right: 30px;
+}
+
+.gender-group label {
+    margin-left: 6px;
+}
