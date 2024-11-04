@@ -38,6 +38,7 @@ form {
     max-width: 600px;
     padding: 120px;
     padding-top: 10px;
+    padding-bottom: 20px;
     border: 1px solid #E3E3E3;
     border-radius: 8px;
     box-shadow: 0 0 10px rgb(0, 0, 0. 0.1);
@@ -48,6 +49,7 @@ form {
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
+    margin-bottom: 100px;
 }
 
 .form-group, .question-group {
